@@ -32,4 +32,20 @@
 - Overall the true mean was not significantly different from the population mean of 1500 PSI because the p value was 0.06028 which is greater than .05.
 - Lot 1 and lot 2 means were not significantly different from the population mean of 1500 PSI because the p values were 1 and .6072, respectively which are greater than .05.
 - Lot 3 mean PSI was significantly different from the population mean of 1500 PSI because the p value was 0.04168 which is less than .05.
+
+## Study Design: MechaCar vs Competition
+### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+### In your description, address the following questions:
+#### What metric or metrics are you going to test?
+- I will compare MechaCar mpg to other cars.
+
+#### What is the null hypothesis or alternative hypothesis?
+- The null hypothesis is that MechaCar mpg will not be significantly diffferent from the "population" (average of other cars) mpg. 
+
+#### What statistical test would you use to test the hypothesis? And why?
+- I would perform a two-tailed, one-sample t-test of the mpg's for MechaCars vs. the mean mpg of the population of other cars.
+
+#### What data is needed to run the statistical test?
+- The complete listing of mpg's for MechaCars and the population mean mpg for the other cars.
+
  
