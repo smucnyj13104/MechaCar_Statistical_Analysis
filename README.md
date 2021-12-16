@@ -11,9 +11,11 @@
 - there might be overfitting though becuase three variables did not significantly predict mpg (vehicle weight, spoiler angle, and AWD)
 
 ## Summary Statistics on Suspension Coils
-### Overall Summary
+### Overall Summary Pic
 
 ![Overall Summary](OverallSummary.png)
+
+### Lot Summary Pic
 ![Lot Summary](Lot_Summary.png)
 
 
