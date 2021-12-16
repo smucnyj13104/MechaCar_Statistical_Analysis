@@ -13,8 +13,8 @@
 ## Summary Statistics on Suspension Coils
 ###Overall Summary
 
-![Overall Summary](OverallSummary.jpg)
-![Lot Summary](Lot_Summary.jpg)
+![Overall Summary](OverallSummary.png)
+![Lot Summary](Lot_Summary.png)
 
 
 -Overall mean PSI is 1498.78, median PSI is 1500, variance of the PSI is 62.29356, standard deviation of the PSI is 7.892627.
