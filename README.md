@@ -13,12 +13,12 @@
 	
 ## Summary Statistics on Suspension Coils
 ###Overall Summary
-	![Overall Summary](Overall_Summary.png)
-	
+
+![alt text](https://github.com/smucnyj13104/MechaCar_Statistical_Analysis/OverallSummary.jpg?raw=true)
+![alt text](https://github.com/smucnyj13104/MechaCar_Statistical_Analysis/Lot_Summary.jpg?raw=true)
+
+
 	-Overall mean PSI is 1498.78, median PSI is 1500, variance of the PSI is 62.29356, standard deviation of the PSI is 7.892627.
-	
-	![Lot Summary](Lot_Summary.png)
-	
 	-Lot3 had the overall lowest mean, median PSI with highest variance and standard deviation. 
 	
 ###The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
